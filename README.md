@@ -1,4 +1,4 @@
-# Peer-To-Peer-Energy
+# Harnessing Peer-to-Peer Energy Sharing
 
 Peer-to-Peer Energy Trading
 
