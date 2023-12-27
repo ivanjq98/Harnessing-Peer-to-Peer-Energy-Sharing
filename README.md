@@ -12,7 +12,9 @@ Project Objectives
 
 Peer-to-Peer energy trading system which includes a blockchain network, virtual auctions and implementation of smart contracts for energy trading transactions. The final objective is integrating both systems together to simulate the interaction of the supply from microgrid power with demand from consumers from the energy trading platform. This would be done using the hardware microgrid in the Clean Energy Research Lab (CERL).
 
+
 Project Summary
+
 The idea of this project is to do energy trading between the consumer and prosumers to secure transactions when they meet the demand through the real-time simulation program. 
 Electricity is an essential part of modern life for operating appliances, computers, electronics, machinery and public transportation systems. Energy trading comes with a supply and demand to meet the buyer and seller needs. The modern channel to perform  in energy trading is transact payment manually using cash and credit card transactions. However, there are some contradictions in using credit card transactions. For example, a typical Visa transaction generally involves a few parties, such as the credit card network, the financial institution that enables merchants to receive payment from the buyer, the cardholder bank, the merchant and the individual cardholder. 
 
