@@ -1,12 +1,15 @@
 # Peer-To-Peer-Energy
 
 Peer-to-Peer Energy Trading
+
 Peer-to-peer (P2P) energy trading is the direct energy trading between prosumerconsumers and prosumers and is frequently implemented inside a local power distribution system. It was founded on the basis of the  "P2P economy" concept (also known as the sharing economy). In peer-to-peer (P2P) energy trading, energy from small-scale Distributed Energy Resources (DERs) in homes, offices, factories, and other facilities is exchanged between local energy prosumers and consumers. Peer-to-peer energy trading's key advantage is that it does away with the need for any middlemen, allowing consumers and prosumers to transact at a lower cost because they are not responsible for covering the intermediary's fees.
 
 Block-chain technology
+
 Blockchain is a method for storing data that makes it difficult or impossible for the system to be changed, hacked, or used improperly. A distributed ledger known as a blockchain distributes and copies transactions throughout the network of computers involved. Blockchain technology is a system for keeping public transactional records across numerous databases in a network connected by peer-to-peer nodes (also referred to as "blocks"). The term "digital ledger" is widely used to describe this kind of storage. The owner's digital signature serves as both a validation and fraud prevention mechanism for every transaction in this ledger. It also serves to authenticate the transaction. The information in the digital ledger is therefore extremely secure. The three key advantages of blockchain technology are that it is decentralized, automated and highly secure.
 
 Project Objectives
+
 Peer-to-Peer energy trading system which includes a blockchain network, virtual auctions and implementation of smart contracts for energy trading transactions. The final objective is integrating both systems together to simulate the interaction of the supply from microgrid power with demand from consumers from the energy trading platform. This would be done using the hardware microgrid in the Clean Energy Research Lab (CERL).
 
 Project Summary
