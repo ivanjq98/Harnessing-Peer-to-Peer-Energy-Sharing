@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# author1: Felix Funk (FAPS): felix.funk@faps.fau.de
 
 import subprocess
 import os
